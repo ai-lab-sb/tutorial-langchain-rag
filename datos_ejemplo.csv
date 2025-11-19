@@ -1,0 +1,13 @@
+tema,pregunta,respuesta
+Python,¿Qué es Python?,"Python es un lenguaje de programación de alto nivel, interpretado y de propósito general. Creado por Guido van Rossum en 1991."
+Python,¿Para qué se usa Python?,"Python se utiliza para desarrollo web, análisis de datos, inteligencia artificial, automatización, scripting y mucho más."
+Python,¿Cuáles son las características de Python?,"Python tiene tipado dinámico, es multiplataforma, tiene una gran biblioteca estándar y soporta múltiples paradigmas."
+LangChain,¿Qué es LangChain?,"LangChain es un framework para desarrollar aplicaciones potenciadas por modelos de lenguaje."
+RAG,¿Qué es RAG?,"RAG (Retrieval-Augmented Generation) combina recuperación de información con generación de texto usando LLMs."
+FAISS,¿Qué es FAISS?,"FAISS es una biblioteca para búsqueda eficiente de similitud y clustering de vectores densos."
+Embeddings,¿Qué son los embeddings?,"Los embeddings son representaciones vectoriales de texto que capturan el significado semántico."
+Gemini,¿Qué es Gemini?,"Gemini es la familia de modelos de lenguaje de Google, diseñados para ser multimodales."
+Machine Learning,¿Qué es el aprendizaje automático?,"El ML permite a las computadoras aprender de datos sin ser programadas explícitamente."
+IA,¿Qué es la Inteligencia Artificial?,"La IA es el campo que se enfoca en crear sistemas capaces de realizar tareas que requieren inteligencia humana."
+
+

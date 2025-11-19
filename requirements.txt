@@ -1,0 +1,25 @@
+# LangChain y componentes relacionados
+langchain==0.1.0
+langchain-google-genai==0.0.6
+langchain-community==0.0.13
+
+# Vector Store
+faiss-cpu==1.7.4
+
+# Google APIs
+google-generativeai==0.3.2
+google-auth==2.25.2
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+gspread==5.12.4
+
+# Utilidades
+python-dotenv==1.0.0
+pandas==2.1.4
+numpy==1.26.2
+
+# Opcional: para mejorar la experiencia
+colorama==0.4.6
+tqdm==4.66.1
+
+
